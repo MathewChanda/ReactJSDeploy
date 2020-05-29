@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ReactJSDeploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ReactJSDeploy/static/js/main.b5a06daa.chunk.js",
-    "main.js.map": "/ReactJSDeploy/static/js/main.b5a06daa.chunk.js.map",
-    "runtime-main.js": "/ReactJSDeploy/static/js/runtime-main.fd2f6c2b.js",
-    "runtime-main.js.map": "/ReactJSDeploy/static/js/runtime-main.fd2f6c2b.js.map",
-    "static/js/2.7c946213.chunk.js": "/ReactJSDeploy/static/js/2.7c946213.chunk.js",
-    "static/js/2.7c946213.chunk.js.map": "/ReactJSDeploy/static/js/2.7c946213.chunk.js.map",
-    "index.html": "/ReactJSDeploy/index.html",
-    "precache-manifest.70a98d702de3c188db16134a2c708fc1.js": "/ReactJSDeploy/precache-manifest.70a98d702de3c188db16134a2c708fc1.js",
-    "service-worker.js": "/ReactJSDeploy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ReactJSDeploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7c946213.chunk.js.LICENSE.txt": "/ReactJSDeploy/static/js/2.7c946213.chunk.js.LICENSE.txt",
-    "static/media/IMG_0018.jpg": "/ReactJSDeploy/static/media/IMG_0018.b35f0ecc.jpg",
-    "static/media/logo.svg": "/ReactJSDeploy/static/media/logo.5d5d9eef.svg"
+    "main.css": "/MicahWhiteFanPage/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MicahWhiteFanPage/static/js/main.3178c05f.chunk.js",
+    "main.js.map": "/MicahWhiteFanPage/static/js/main.3178c05f.chunk.js.map",
+    "runtime-main.js": "/MicahWhiteFanPage/static/js/runtime-main.460b829d.js",
+    "runtime-main.js.map": "/MicahWhiteFanPage/static/js/runtime-main.460b829d.js.map",
+    "static/js/2.7c946213.chunk.js": "/MicahWhiteFanPage/static/js/2.7c946213.chunk.js",
+    "static/js/2.7c946213.chunk.js.map": "/MicahWhiteFanPage/static/js/2.7c946213.chunk.js.map",
+    "index.html": "/MicahWhiteFanPage/index.html",
+    "precache-manifest.d2dffbc23f618f55c89cef7aae914945.js": "/MicahWhiteFanPage/precache-manifest.d2dffbc23f618f55c89cef7aae914945.js",
+    "service-worker.js": "/MicahWhiteFanPage/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MicahWhiteFanPage/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7c946213.chunk.js.LICENSE.txt": "/MicahWhiteFanPage/static/js/2.7c946213.chunk.js.LICENSE.txt",
+    "static/media/IMG_0018.jpg": "/MicahWhiteFanPage/static/media/IMG_0018.b35f0ecc.jpg",
+    "static/media/logo.svg": "/MicahWhiteFanPage/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd2f6c2b.js",
+    "static/js/runtime-main.460b829d.js",
     "static/js/2.7c946213.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b5a06daa.chunk.js"
+    "static/js/main.3178c05f.chunk.js"
   ]
 }
