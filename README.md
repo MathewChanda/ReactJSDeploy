@@ -1,2 +1,2 @@
 ## About 
-This ReactJS App is used for deploying a React App on GitHub Page. 
+This React App is used for a lesson on deploying a React App on GitHub Page. 
