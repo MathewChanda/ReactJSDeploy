@@ -12,6 +12,7 @@ function App() {
         <p>
           I Love Micah White 
         </p>
+        <a href="https://www.instagram.com/praisethemicah/">Praise the Micah</a>
       </header>
     </div>
   );
