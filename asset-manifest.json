@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MicahWhiteFanPage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/MicahWhiteFanPage/static/js/main.3178c05f.chunk.js",
-    "main.js.map": "/MicahWhiteFanPage/static/js/main.3178c05f.chunk.js.map",
-    "runtime-main.js": "/MicahWhiteFanPage/static/js/runtime-main.460b829d.js",
-    "runtime-main.js.map": "/MicahWhiteFanPage/static/js/runtime-main.460b829d.js.map",
-    "static/js/2.7c946213.chunk.js": "/MicahWhiteFanPage/static/js/2.7c946213.chunk.js",
-    "static/js/2.7c946213.chunk.js.map": "/MicahWhiteFanPage/static/js/2.7c946213.chunk.js.map",
-    "index.html": "/MicahWhiteFanPage/index.html",
-    "precache-manifest.d2dffbc23f618f55c89cef7aae914945.js": "/MicahWhiteFanPage/precache-manifest.d2dffbc23f618f55c89cef7aae914945.js",
-    "service-worker.js": "/MicahWhiteFanPage/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/MicahWhiteFanPage/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7c946213.chunk.js.LICENSE.txt": "/MicahWhiteFanPage/static/js/2.7c946213.chunk.js.LICENSE.txt",
-    "static/media/IMG_0018.jpg": "/MicahWhiteFanPage/static/media/IMG_0018.b35f0ecc.jpg",
-    "static/media/logo.svg": "/MicahWhiteFanPage/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.96d082d2.chunk.js",
+    "main.js.map": "/static/js/main.96d082d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49be5b6a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49be5b6a.js.map",
+    "static/js/2.7c946213.chunk.js": "/static/js/2.7c946213.chunk.js",
+    "static/js/2.7c946213.chunk.js.map": "/static/js/2.7c946213.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f8ce03659be15431e0fefbb31ce281a.js": "/precache-manifest.9f8ce03659be15431e0fefbb31ce281a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7c946213.chunk.js.LICENSE.txt": "/static/js/2.7c946213.chunk.js.LICENSE.txt",
+    "static/media/IMG_0018.jpg": "/static/media/IMG_0018.b35f0ecc.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.460b829d.js",
+    "static/js/runtime-main.49be5b6a.js",
     "static/js/2.7c946213.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3178c05f.chunk.js"
+    "static/js/main.96d082d2.chunk.js"
   ]
 }
